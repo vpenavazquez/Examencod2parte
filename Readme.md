@@ -63,7 +63,7 @@ Pregunta
 
 ![9.png](fotos/9.png)
 
-- comando del pull y al momento de ponerlo aparecio al momento la edicion del readme en la web
+- Comando del pull y al momento de ponerlo aparecio al momento la edicion del readme en la web
 
 Pregunta
 - Explica los pasos dados para que el cambio realizado en GitHub, llegue a tu rama principal local. Explícalo con capturas de pantalla.
