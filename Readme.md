@@ -33,11 +33,17 @@ Pregunta
 - Realiza una modificación en el código en la web de tu repositorio en GitHub
 - Utiliza fetch para descargar los cambios realizados en tu repositorio.
 
+![4.png](fotos/4.png)
+- modificacion del codigo en la web
 
+![5.png](fotos/5.png)
+
+-git fetch y git merge origin/main hecho
 
 Pregunta
 - Explica los pasos para que el código modificado en GitHub, llegue a tu rama principal local. Explícalo con capturas de pantalla.
 
+- El comando git fetch solamente descarga los metadatos y los commits del repositorio remoto a mi carpeta oculta .git, actualizando la referencia remota (origin/main). Sin embargo, no toca mi directorio de trabajo ni mi rama local (main). Para que el código aparezca en mi archivo local, es necesario realizar un MERGE (Fusión) de la rama remota hacia mi rama local.
 ### Apartado 3
 
 - Realiza otro cambio desde la web de tu repositorio en GitHub.
