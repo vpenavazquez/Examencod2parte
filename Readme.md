@@ -41,7 +41,7 @@ Pregunta
 ![6.png](fotos/6.png)
 ![7.png](fotos/7.png)
 
--git fetch y git merge origin/main hecho
+- git fetch y git merge origin/main hecho
 
 Pregunta
 - Explica los pasos para que el código modificado en GitHub, llegue a tu rama principal local. Explícalo con capturas de pantalla.
