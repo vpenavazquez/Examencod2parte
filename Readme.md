@@ -11,8 +11,9 @@
 
 - Clona este repositorio.
 - Modifica este Readme, poniendo tu nombre completo, realiza un `commit` con el mensaje *"Apartado 1"* y un `push`.
-![examen1.png](fotos/examen1.png)
 
+
+![examen1.png](fotos/examen1.png)
 
 - copiamos esa url 
 
@@ -34,6 +35,7 @@ Pregunta
 - Utiliza fetch para descargar los cambios realizados en tu repositorio.
 
 ![4.png](fotos/4.png)
+
 - modificacion del codigo en la web
 
 ![6.png](fotos/6.png)
@@ -44,7 +46,9 @@ Pregunta
 Pregunta
 - Explica los pasos para que el código modificado en GitHub, llegue a tu rama principal local. Explícalo con capturas de pantalla.
 
-- El comando git fetch solamente descarga los metadatos y los commits del repositorio remoto a mi carpeta oculta .git, actualizando la referencia remota (origin/main). Sin embargo, no toca mi directorio de trabajo ni mi rama local (main). Para que el código aparezca en mi archivo local, es necesario realizar un MERGE (Fusión) de la rama remota hacia mi rama local.
+- El comando git fetch solamente descarga los metadatos y los commits del repositorio remoto a mi carpeta oculta .git, actualizando la referencia remota (origin/main). Sin embargo, no toca mi directorio de trabajo ni mi rama local (main). 
+- Para que el código aparezca en mi archivo local, es necesario realizar un MERGE (Fusión) de la rama remota hacia mi rama local.
+
 ### Apartado 3
 -linea añadida para edicion apartado 3
 
@@ -54,8 +58,20 @@ Pregunta
 
 
 ![8.png](fotos/8.png)
+
 - Edicion del readme en la web
+
+![9.png](fotos/9.png)
+
+- comando del pull y al momento de ponerlo aparecio al momento la edicion del readme en la web
 
 Pregunta
 - Explica los pasos dados para que el cambio realizado en GitHub, llegue a tu rama principal local. Explícalo con capturas de pantalla.
 
+- He utilizado el comando Git Pull. Este comando realiza automáticamente dos acciones en un solo paso:
+
+    - Fetch: Descarga los cambios del repositorio remoto.
+
+    - Merge: Los fusiona inmediatamente con mi rama local.
+
+- Al combinarlos, el código de mi editor se actualiza al instante sin necesidad de realizar la fusión manualmente como en el apartado anterior.
