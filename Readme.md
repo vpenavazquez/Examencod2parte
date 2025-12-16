@@ -50,6 +50,10 @@ Pregunta
 - Realiza otro cambio desde la web de tu repositorio en GitHub.
 - Utiliza pull para descargar los cambios realizados en tu repositorio.
 
+
+![8.png](fotos/8.png)
+- Edicion del readme en la web
+
 Pregunta
 - Explica los pasos dados para que el cambio realizado en GitHub, llegue a tu rama principal local. Explícalo con capturas de pantalla.
 
