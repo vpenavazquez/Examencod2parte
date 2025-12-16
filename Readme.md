@@ -45,7 +45,9 @@ Pregunta
 - Explica los pasos para que el código modificado en GitHub, llegue a tu rama principal local. Explícalo con capturas de pantalla.
 
 - El comando git fetch solamente descarga los metadatos y los commits del repositorio remoto a mi carpeta oculta .git, actualizando la referencia remota (origin/main). Sin embargo, no toca mi directorio de trabajo ni mi rama local (main). Para que el código aparezca en mi archivo local, es necesario realizar un MERGE (Fusión) de la rama remota hacia mi rama local.
+  
 ### Apartado 3
+
 -linea añadida para edicion apartado 3
 
 
