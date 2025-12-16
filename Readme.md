@@ -36,7 +36,8 @@ Pregunta
 ![4.png](fotos/4.png)
 - modificacion del codigo en la web
 
-![5.png](fotos/5.png)
+![6.png](fotos/6.png)
+![7.png](fotos/7.png)
 
 -git fetch y git merge origin/main hecho
 
