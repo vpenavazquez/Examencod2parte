@@ -25,8 +25,9 @@
 
 - y pegamos la url del repositorio que hayamos creado en git- manage remotes
 Pregunta 
-- ¿Qué paso es fundamental cuando clonamos un repositorio ajeno para que podamos subir nuestros propios commits? Explícalo y utiliza capturas de pantalla.
 
+- ¿Qué paso es fundamental cuando clonamos un repositorio ajeno para que podamos subir nuestros propios commits? Explícalo y utiliza capturas de pantalla.
+- Es fundamental que peguemos en git - manage remotes nuestro repositorio creado manualmente, porque si clonas el repositorio de alguien y quieres hacer push sin cambiar manage remotes, te dara error porque no tienes autorizacion
 ### Apartado 2
 
 - Realiza una modificación en el código en la web de tu repositorio en GitHub
