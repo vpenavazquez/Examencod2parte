@@ -1,5 +1,5 @@
 # Examen 1ª Evaluación (2ª Parte) - Control de Versiones
-
+ - Victor Pena Vazquez
 ---
 
 ## Instrucciones
@@ -11,7 +11,19 @@
 
 - Clona este repositorio.
 - Modifica este Readme, poniendo tu nombre completo, realiza un `commit` con el mensaje *"Apartado 1"* y un `push`.
+![examen1.png](fotos/examen1.png)
 
+
+- copiamos esa url 
+
+![examen2.png](fotos/examen2.png)
+- la pegamos en file - project from version control
+
+- creamos un nuevo repositorio en github 
+
+![3.png](fotos/3.png)
+
+- y pegamos la url del repositorio que hayamos creado en git- manage remotes
 Pregunta 
 - ¿Qué paso es fundamental cuando clonamos un repositorio ajeno para que podamos subir nuestros propios commits? Explícalo y utiliza capturas de pantalla.
 
